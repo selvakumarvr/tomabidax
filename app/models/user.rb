@@ -13,34 +13,36 @@ class User < ActiveRecord::Base
   before_create :create_referral_code
   after_create :send_welcome_email
 
-  REFERRAL_STEPS = [
-    {
-      'count' => 5,
-      'html' => 'Shave<br>Cream',
-      'class' => 'two',
-      'image' =>  ActionController::Base.helpers.asset_path(
-        'refer/cream-tooltip@2x.png')
-    },
+
+
+                     REFERRAL_STEPS = [
     {
       'count' => 10,
-      'html' => 'Truman Handle<br>w/ Blade',
+      'html' => '$10 Discount <BR> On Any Premium <BR>Baked Edibles',
+      'class' => 'two',
+      'image' =>  ActionController::Base.helpers.asset_path(
+        'refer/1/discount.jpg')
+    },
+    {
+      'count' => 30,
+      'html' => '3 FREE Cana Cupcakes<br> & $10 Discount<br>On Cana Birthday Cake',
       'class' => 'three',
       'image' => ActionController::Base.helpers.asset_path(
-        'refer/truman@2x.png')
+        'refer/2/3-cupcakes.jpg')
     },
     {
-      'count' => 25,
-      'html' => 'Winston<br>Shave Set',
+      'count' => 100,
+      'html' => '5 FREE Cana Cupcakes <br> & $20 Discount On <br> Cana Birthday Cake',
       'class' => 'four',
       'image' => ActionController::Base.helpers.asset_path(
-        'refer/winston@2x.png')
+        'refer/3/Gourmet-Cupcakes.jpg')
     },
     {
-      'count' => 50,
-      'html' => 'One Year<br>Free Blades',
+      'count' => 500,
+      'html' => 'FREE 15 pc. Cannabis <br>Birthday Cake Valued <br>At $150.00',
       'class' => 'five',
       'image' => ActionController::Base.helpers.asset_path(
-        'refer/blade-explain@2x.png')
+        'refer/4/finalimg.jpg')
     }
   ]
 
