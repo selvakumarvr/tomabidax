@@ -21,28 +21,28 @@ class User < ActiveRecord::Base
       'html' => '$10 Discount <BR> On Any Premium <BR>Baked Edibles',
       'class' => 'two',
       'image' =>  ActionController::Base.helpers.asset_url(
-        'refer/1/discount.jpg')
+        'assets/refer/1/discount.jpg')
     },
     {
       'count' => 30,
       'html' => '3 FREE Cana Cupcakes <br>& $10 Discount<br>On Cana Birthday Cake',
       'class' => 'three',
       'image' => ActionController::Base.helpers.asset_url(
-        'refer/2/3-cupcakes.jpg')
+        'assets/refer/2/3-cupcakes.jpg')
     },
     {
       'count' => 100,
       'html' => '5 FREE Cana Cupcakes <br> & $20 Discount On <br> Cana Birthday Cake',
       'class' => 'four',
       'image' => ActionController::Base.helpers.asset_url(
-        'refer/3/Gourmet-Cupcakes.jpg')
+        'assets/refer/3/Gourmet-Cupcakes.jpg')
     },
     {
       'count' => 500,
       'html' => 'FREE 15 pc. Cannabis <br> Birthday Cake Valued <br>At $150.00',
       'class' => 'five',
       'image' => ActionController::Base.helpers.asset_url(
-        'refer/4/finalimg.jpg')
+        'assets/refer/4/finalimg.jpg')
     }
   ]
 
