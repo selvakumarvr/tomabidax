@@ -17,7 +17,7 @@
       <div class="copy-link brandon"><%= root_url %>?ref=<%= @user.referral_code %></div>
       <% twitter_message = "I just signed up to win a Free Cannabis Birthday Cake. Sign up to get a chance to win." %>
       <div class="social-links">
-        <a href="http://www.facebook.com/sharer/sharer.php?u=<%= CGI::escape(root_url) %>?ref=<%= CGI::escape(@user.referral_code) %>&title=Cannabis" class="fb" target="_blank"></a>
+        <a href="http://www.facebook.com/sharer/sharer.php?u=<%= CGI::escape(root_url) %>?ref=<%= CGI::escape(@user.referral_code) %>&title=Cannabis&summary='I just signed up to win a Free Cannabis Birthday Cake. Sign up to get a chance to win.' " class="fb" target="_blank"></a>
         <div class="sep"></div>
         <a href="http://twitter.com/share?url=<%= CGI::escape(root_url) %>?ref=<%= CGI::escape(@user.referral_code) %>&text=<%= CGI::escape(twitter_message) %>" class="twit" target="_blank"></a>
       </div>
