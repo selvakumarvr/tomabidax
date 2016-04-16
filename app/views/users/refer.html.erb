@@ -15,7 +15,7 @@
       <p class="title brandon">INVITE FRIENDS &<br>GET FREE EDIBLES</p>
       <p class="subtitle brandon">Share this link  Facebook<br>or Twitter and unlock goods for each friend who checks out this page.</p>
       <div class="copy-link brandon"><%= root_url %>?ref=<%= @user.referral_code %></div>
-      <% twitter_message = "Get Your Free Cannabis Birthday Cake. Premium Edibles. I can’t wait to get my Free Marijuana Birthday Cake for my birthday. " %>
+      <% twitter_message = "I just signed up to win a Free Cannabis Birthday Cake. Sign up to get a chance to win." %>
       <div class="social-links">
         <a href="http://www.facebook.com/sharer/sharer.php?u=<%= CGI::escape(root_url) %>?ref=<%= CGI::escape(@user.referral_code) %>&title=Cannabis" class="fb" target="_blank"></a>
         <div class="sep"></div>
