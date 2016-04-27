@@ -18,8 +18,8 @@ class UsersController < ApplicationController
     email = params[:user][:email]
     
     if email && User.find_by_email(email)
-      redirect_to '/refer-a-friend'
-      return
+      redirect_to '/refer-a-friend' and return true
+  
     end  
     @user = User.new(email: email)
     @user.referrer = User.find_by_referral_code(ref_code) if ref_code
