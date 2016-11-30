@@ -17,29 +17,29 @@ class User < ActiveRecord::Base
 
                      REFERRAL_STEPS = [
     {
-      'count' => 10,
-      'html' => '$10 Discount <BR> On Any Premium <BR>Baked Edibles',
+      'count' => 5,
+      'html' => '1st drink free',
       'class' => 'two',
       'image' =>  ActionController::Base.helpers.asset_url(
         'assets/refer/1/discount.jpg')
     },
     {
-      'count' => 30,
-      'html' => '3 FREE Cana Cupcakes <br>& $10 Discount<br>On Cana Birthday Cake',
+      'count' => 10,
+      'html' => '1 Month free',
       'class' => 'three',
       'image' => ActionController::Base.helpers.asset_url(
         'assets/refer/2/3-cupcakes.jpg')
     },
     {
-      'count' => 100,
-      'html' => '5 FREE Cana Cupcakes <br> & $20 Discount On <br> Cana Birthday Cake',
+      'count' => 25,
+      'html' => 'you will be invited to our exclusive launch party',
       'class' => 'four',
       'image' => ActionController::Base.helpers.asset_url(
         'assets/refer/3/Gourmet-Cupcakes.jpg')
     },
     {
-      'count' => 500,
-      'html' => 'FREE 15 pc. Cannabis <br> Birthday Cake Valued <br>At $150.00',
+      'count' => 50,
+      'html' => '1 year free membership',
       'class' => 'five',
       'image' => ActionController::Base.helpers.asset_url(
         'assets/refer/4/finalimg.jpg')
