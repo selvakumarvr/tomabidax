@@ -21,28 +21,28 @@ class User < ActiveRecord::Base
       'html' => '1st drink free',
       'class' => 'two',
       'image' =>  ActionController::Base.helpers.asset_url(
-        'assets/refer/1/discount.jpg')
+        'assets/refer/1/disco1unt.jpg')
     },
     {
       'count' => 10,
       'html' => '1 Month free',
       'class' => 'three',
       'image' => ActionController::Base.helpers.asset_url(
-        'assets/refer/2/3-cupcakes.jpg')
+        'assets/refer/2/3-cupca1kes.jpg')
     },
     {
       'count' => 25,
       'html' => 'you will be invited to our exclusive launch party',
       'class' => 'four',
       'image' => ActionController::Base.helpers.asset_url(
-        'assets/refer/3/Gourmet-Cupcakes.jpg')
+        'assets/refer/3/Gourmet-Cu1pcakes.jpg')
     },
     {
       'count' => 50,
       'html' => '1 year free membership',
       'class' => 'five',
       'image' => ActionController::Base.helpers.asset_url(
-        'assets/refer/4/finalimg.jpg')
+        'assets/refer/4/final1img.jpg')
     }
   ]
 
