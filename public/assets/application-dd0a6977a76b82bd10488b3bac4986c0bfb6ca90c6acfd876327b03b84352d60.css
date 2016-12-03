@@ -1769,10 +1769,10 @@ html.home {
 
 /* line 316, /Users/e1graje/tomabidax/app/assets/stylesheets/_core.scss */
 #refer .mammoth {
-  width: 612px;
+  width: 1300px;
   height: 394px;
   background: url(/assets/refer/mammoth-aeb47a83b7b8bcbdfd7aae215a5e902c954d95c93423bb69864e9475eb763216.png) 0 0 no-repeat;
-  background-size: 610px 394px;
+  background-size: 1300px 394px;
   overflow: hidden;
   margin-top: 15px;
   float: left;
