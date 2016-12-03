@@ -17,7 +17,7 @@ group :assets do
   gem 'sass-rails',   '~> 5.0.1'
   gem 'uglifier'
 end
-gem 'sqlite3'
+
 group :development, :test do
 
   gem 'pry'
