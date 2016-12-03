@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ba892-518a-449f-ab92-e187084e3e6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20130127063937_devise_create_admin_users.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" afterPath="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20130127063937_devise_create_admin_users.rb" afterPath="$PROJECT_DIR$/db/migrate/20130127063937_devise_create_admin_users.rb" />
     </list>
     <ignored path="prelaunchr.iws" />
     <ignored path=".idea/workspace.xml" />
