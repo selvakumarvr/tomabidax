@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ba892-518a-449f-ab92-e187084e3e6a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css" afterPath="$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css" />
     </list>
     <ignored path="prelaunchr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-36.03846" vertical-offset="25658" max-vertical-offset="33210">
-              <caret line="1773" column="29" selection-start-line="1773" selection-start-column="29" selection-end-line="1773" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.5949612" vertical-offset="26348" max-vertical-offset="33210">
+              <caret line="1777" column="14" selection-start-line="1777" selection-start-column="14" selection-end-line="1777" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -87,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22509225" vertical-offset="163" max-vertical-offset="780">
+            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="780">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -150,8 +150,8 @@
         <option value="$PROJECT_DIR$/db/migrate/20130127063937_devise_create_admin_users.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css" />
       </list>
     </option>
   </component>
@@ -1033,18 +1033,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-36.03846" vertical-offset="25658" max-vertical-offset="33210">
-          <caret line="1773" column="29" selection-start-line="1773" selection-start-column="29" selection-end-line="1773" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="780">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/public/assets/application-dd0a6977a76b82bd10488b3bac4986c0bfb6ca90c6acfd876327b03b84352d60.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22509225" vertical-offset="163" max-vertical-offset="780">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5949612" vertical-offset="26348" max-vertical-offset="33210">
+          <caret line="1777" column="14" selection-start-line="1777" selection-start-column="14" selection-end-line="1777" selection-end-column="14" />
           <folding />
         </state>
       </provider>
