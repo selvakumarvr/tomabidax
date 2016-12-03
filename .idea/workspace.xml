@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450ba892-518a-449f-ab92-e187084e3e6a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" afterPath="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" />
-    </list>
+    <list default="true" id="450ba892-518a-449f-ab92-e187084e3e6a" name="Default" comment="" />
     <ignored path="prelaunchr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
