@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ba892-518a-449f-ab92-e187084e3e6a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/migrate/20130127063937_devise_create_admin_users.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" afterPath="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" />
     </list>
     <ignored path="prelaunchr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,8 +80,8 @@
       <file leaf-file-name="20130127063936_devise_create_admin_users.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24907748" vertical-offset="0" max-vertical-offset="870">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.44280443" vertical-offset="0" max-vertical-offset="870">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,8 +138,8 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/_core.scss" />
         <option value="$PROJECT_DIR$/app/views/users/refer.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130127063937_devise_create_admin_users.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb" />
       </list>
     </option>
   </component>
@@ -898,8 +898,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130127063936_devise_create_admin_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24907748" vertical-offset="0" max-vertical-offset="870">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.44280443" vertical-offset="0" max-vertical-offset="870">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
