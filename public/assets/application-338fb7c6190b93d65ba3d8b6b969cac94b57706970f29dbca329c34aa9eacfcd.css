@@ -1454,7 +1454,7 @@ html.home {
 #home .hero {
   width: 100%;
   height: 446px;
-  background: url(/assets/home/shutterstock-8eb7be0b32ee7fc865e5f5416c6d2e45319daff33c468a259d49dd350308b00b.png) center center no-repeat;
+  background: url(/assets/home/shutterstock-e1222137c9ccaad33cf588065bb1f1d9868ff6c27cbd0310ebf721ef01e1b741.png) center center no-repeat;
   background-size: 1600px 446px;
   overflow: hidden;
   position: relative;
@@ -2142,7 +2142,7 @@ html.home {
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   /* line 640, /Users/e1graje/tomabidax/app/assets/stylesheets/_core.scss */
   #home .hero {
-    background: url(/assets/home/shutterstock-8eb7be0b32ee7fc865e5f5416c6d2e45319daff33c468a259d49dd350308b00b.png) center center no-repeat;
+    background: url(/assets/home/shutterstock-e1222137c9ccaad33cf588065bb1f1d9868ff6c27cbd0310ebf721ef01e1b741.png) center center no-repeat;
     background-size: 1600px 446px;
   }
 
