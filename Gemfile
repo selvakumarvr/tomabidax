@@ -17,9 +17,9 @@ group :assets do
   gem 'sass-rails',   '~> 5.0.1'
   gem 'uglifier'
 end
-gem 'sqlite3'
-group :development, :test do
 
+group :development, :test do
+  gem 'sqlite3'
   gem 'pry'
   gem 'rspec-rails', '3.4.2'
   gem 'rspec-mocks', '3.4.1'
